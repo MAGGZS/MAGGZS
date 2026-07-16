@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | .NET | React | Cloud Solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+.NET+%7C+Cloud;Always+Learning+and+Improving/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+.NET+%7C+Cloud;Always+Learning+and+Improving"/>
 
 </div>
 
@@ -31,7 +31,7 @@ Currently focused on:
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,typescriptt,html,css,redux
+<img src="https://skillicons.dev/icons?i=react,typescriptt,html,css,redux"/>
 </p>
 
 ### Backend
@@ -43,7 +43,7 @@ illicons.dev/icons?i=dotnet,cs,nodejs" />
 ### Cloud & DevOps
 
 <p>
-https://skillicons.dev/icons?i=azure,docker,github,git
+https://skillicons.dev/icons?i=azure,docker,github,git/>
 </p>
 
 ### Tools
@@ -88,9 +88,9 @@ Mobile-oriented application focused on usability and navigation experience.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&showb_dark&hide_border=true
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&showb_dark&hide_border=true/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layoutark&hide_border=true
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layoutark&hide_border=true/>
 
 </div>
 
@@ -100,7 +100,7 @@ Mobile-oriented application focused on usability and navigation experience.
 
 <div align="center">
 
--streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true" />
+-streak-stats.herokuapp.com/?user=MAGGZS&theme=github-dark-blue&hide_border=true"
 
 </div>
 
@@ -121,9 +121,9 @@ Mobile-oriented application focused on usability and navigation experience.
 
 <p align="left">
 
-https://linkedin.com/in/SEU_LINKEDIN
+https://linkedin.com/in/magdiel_eric
 
-SEU_EMAIL
+MAGDIELBR1@GMAIL.COM
 
 </p>
 
