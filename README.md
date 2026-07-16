@@ -37,7 +37,7 @@ Currently focused on:
 ### Backend
 
 <p>
-<img src="https://skiillicons.dev/icons?i=dotnet,cs,nodejs" />
+<img src="https://skiillicons.dev/icons?i=dotnet,cs,nodejs,java" />
 </p>
 
 ### Cloud & DevOps
