@@ -37,19 +37,19 @@ Currently focused on:
 ### Backend
 
 <p>
-illicons.dev/icons?i=dotnet,cs,nodejs" />
+<img src="https://skiillicons.dev/icons?i=dotnet,cs,nodejs" />
 </p>
 
 ### Cloud & DevOps
 
 <p>
-https://skillicons.dev/icons?i=azure,docker,github,git/>
+<img src="https://skillicons.dev/icons?i=azure,docker,github,git"/>
 </p>
 
 ### Tools
 
 <p>
-scode,postman,npm" />
+<img src="vscode,postman,npm" />
 </p>
 
 ---
@@ -88,9 +88,9 @@ Mobile-oriented application focused on usability and navigation experience.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&showb_dark&hide_border=true/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&showb_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layoutark&hide_border=true/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layoutark&hide_border=true"/>
 
 </div>
 
@@ -123,7 +123,7 @@ Mobile-oriented application focused on usability and navigation experience.
 
 https://linkedin.com/in/magdiel_eric
 
-MAGDIELBR1@GMAIL.COM
+MAGDIELBR13@GMAIL.COM
 
 </p>
 
