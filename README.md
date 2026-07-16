@@ -4,7 +4,7 @@
 
 ### Full Stack Developer | .NET | React | Cloud Solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+.NET+%7C+Cloud;Always+Learning+and+Improving>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+.NET+%7C+Cloud;Always+Learning+and+Improving/>
 
 </div>
 
