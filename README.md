@@ -4,7 +4,7 @@
 
 <!-- Opção 2: banner gerado (sem precisar de imagem) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20SEU_NOME's%20Github&fontSize=32&fontColor=ffffff&desc=%3C%2F%3E&descSize=22&descAlignY=65&fontAlignY=40" width="100%" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20maggzs's%20Github&fontSize=32&fontColor=ffffff&desc=%3C%2F%3E&descSize=22&descAlignY=65&fontAlignY=40" width="100%" alt="banner"/>
 </p>
 
 <!-- ===================== PERFIS ===================== -->
@@ -21,7 +21,7 @@
 
 <img align="right" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFrZ3l6c2k3dW1qb2Z1Y3l3b2Z0b3B4c3J6c2V5c3J6c2V5c3J6cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SUBSTITUA_PELO_SEU_GIF/giphy.gif" alt="astronauta"/>
 
-Hello There! I'm ***SEU_NOME***, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and CodeChef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
+Hello There! I'm ***Magdiel***, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and CodeChef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 
 <p align="center">
   🏛️ <b><i>Studying at SUA_FACULDADE</i></b><br/>
@@ -63,5 +63,5 @@ Hello There! I'm ***SEU_NOME***, a Systems Engineer student. I enjoy learning ne
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&custom_title=SEU_NOME's%20Contribution%20Graph&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=30363d&hide_border=false&border_color=30363d" alt="Contribution Graph"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=maggzs&custom_title=maggzs's%20Contribution%20Graph&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=30363d&hide_border=false&border_color=30363d" alt="Contribution Graph"/>
 </p>
