@@ -58,8 +58,8 @@ Hello There! I'm ***Magdiel***, a Systems Engineer student. I enjoy learning new
 <h2 align="center">📈 Statistics</h2>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&include_all_commits=false&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff&border_color=30363d" alt="GitHub Stats"/>
-  <img height="180" src="https://streak-stats.demolab.com?user=SEU_USUARIO&background=0d1117&border=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&stroke=ffffff" alt="GitHub Streak"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=maggzs&show_icons=true&include_all_commits=false&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&ring_color=ffffff&border_color=30363d" alt="GitHub Stats"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=maggzs&background=0d1117&border=30363d&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=8b949e&stroke=ffffff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
