@@ -24,10 +24,10 @@
 Hello There! I'm ***Magdiel***, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and CodeChef. Now I'm working at some little and fun projects to put in practice my knowledge about JavaScript, React, Bootstrap and more.
 
 <p align="center">
-  🏛️ <b><i>Studying at SUA_FACULDADE</i></b><br/>
-  👨‍🏫 <b><i>Private tutor in C++ at the University</i></b><br/>
-  🏆 <b><i>Competitor in the ICPC (2025)</i></b><br/>
-  ♟️ <b><i>Chess Player</i></b>
+  🏛️ <b><i>Studying at Systems Analysis and Development</i></b><br/>
+  👨‍🏫 <b><i>passionate about Python</i></b><br/>
+  🏆 <b><i>CEO and founder of Viston</i></b><br/>
+  🟩 <b><i>Minecraft Player</i></b>
 </p>
 
 <br clear="right"/>
